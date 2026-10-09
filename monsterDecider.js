@@ -1,3 +1,10 @@
+/* 
+    If you're into Monster and collecting cans like infinity stones, bro, this little program is literally made for you.
+    Just tell me what flavours you've already tried and how many you wanna buy. I'll pick some new ones for you. No repeats.
+    Tried them all? Nah bro, you've completed the Monster cinematic universe. Touch grass, Respectfully.
+    Disclaimer: Your wallet might not survive this character development arc.
+
+*/
 console.log("MONSTER DECIDER");
 console.log("i am going to decide what monster you should buy.");
 let monstersTried = prompt("what are the monsters you have tried?");
